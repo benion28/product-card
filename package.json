@@ -1,0 +1,16 @@
+{
+  "name": "product-card",
+  "version": "1.0.0",
+  "description": "A Product Card Using HTML, CSS & JavaScript",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/product-card",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
